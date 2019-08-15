@@ -1,0 +1,22 @@
+{
+  "name": "cubejs",
+  "version": "1.0.0",
+  "description": "Cube.js学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd ./cubejs-server && npm run dev",
+    "client": "cd ./cubejs-client && npm run dev",
+    "dev": "npm run server & npm run client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangwentian/cubejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangwentian/cubejs/issues"
+  },
+  "homepage": "https://github.com/fangwentian/cubejs#readme"
+}

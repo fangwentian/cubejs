@@ -38,7 +38,7 @@ cd cubejs-client
 npm i
 npm run dev
 ```
-访问页面http://localhost:9000查看数据
+访问页面http://localhost:9000 查看数据
 
 ![](https://haitao.nos.netease.com/117542e7-1a37-4ff4-898f-d5c50186ea55_1018_748.png)
 
