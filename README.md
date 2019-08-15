@@ -5,7 +5,7 @@ Cube.js学习
 ## 启动server
 
 ### 依赖条件
-- 启动server之前，本地要先安装好mysql或其他数据库，并添加一些默认数据。表名books，字段有id, name, price, date。不一致的话需要自行修改代码。
+- 启动server之前，本地要先安装好mysql或其他数据库，并添加一些初始数据。表名books，字段有id, name, price, date。不一致的话需要自行修改代码。
 
 ![](https://haitao.nos.netease.com/5d7e945a-0a6d-487a-884e-515b8c106b13_824_460.png)
 
