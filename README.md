@@ -5,7 +5,7 @@ Cube.js学习
 ## 启动server
 
 ### 依赖条件
-- 启动server之前，本地要先安装好mysql或其他数据库，并设置一些默认参数。表名books，字段有id, name, price, date。不一致的话需要自行修改代码。
+- 启动server之前，本地要先安装好mysql或其他数据库，并添加一些默认数据。表名books，字段有id, name, price, date。不一致的话需要自行修改代码。
 
 ![](https://haitao.nos.netease.com/5d7e945a-0a6d-487a-884e-515b8c106b13_824_460.png)
 
@@ -39,7 +39,7 @@ cd cubejs-server
 npm i
 npm run dev
 ```
-启动完成之后可以在http://localhost:4000看到Cube.js的playground
+启动完成之后可以在[http://localhost:4000](http://localhost:4000) 看到Cube.js的playground
 
 
 ## 启动client
